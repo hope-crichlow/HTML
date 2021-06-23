@@ -1,23 +1,26 @@
 .container{
     width: 950px;
     background-color: silver;
-    margin: 0px auto;
+    margin: 20px auto;
 }
 .top-nav {
     height: 150px;
     background-color: green;
 }
 .side-nav {
+    display: inline-block;
     height: 300px;
     width: 200px;
     background-color: blue;
 }
 .main {
+    display: inline-block;
     height: 400px;
     width: 700px;
     background-color: red;
 }
 .sub-content {
+    display: inline-block;
     height: 200px;
     width: 210px;
     background-color: yellow;
