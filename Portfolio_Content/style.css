@@ -1,0 +1,11 @@
+* {
+    list-style: none;
+}
+
+.headshot {
+    height: 200px;
+}
+
+.project img {
+    height: 150px;
+}
